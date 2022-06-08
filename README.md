@@ -1,1 +1,1 @@
-# cit281-lab02
+## Lab 2 : Intro to GIT
